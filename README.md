@@ -74,7 +74,7 @@ Stack: MERN · JWT · Docker · Nginx · MongoDB indexing
 Badges:  
 <img src="https://img.shields.io/badge/feature-Verification-brightgreen.svg" alt="Verification" /> <img src="https://img.shields.io/badge/security-JWT-blue.svg" alt="JWT" /> <img src="https://img.shields.io/badge/performance-Indexed%20DB-orange.svg" alt="Performance" />
 
-Repository (example): https://github.com/tsediatgstu/credential-card-system
+ https://github.com/tsediatgstu/credential-card-system
 
 ---
 
@@ -93,7 +93,7 @@ Stack: React · Redux · PHP · MySQL · Node.js (API gateway) · Docker
 Badges:  
 <img src="https://img.shields.io/badge/feature-Ticketing-blueviolet.svg" alt="Ticketing" /> <img src="https://img.shields.io/badge/security-RBAC-red.svg" alt="RBAC" /> <img src="https://img.shields.io/badge/realtime-WebSockets-yellow.svg" alt="Realtime" />
 
-Repository (example): https://github.com/tsediatgstu/complaint-management-system
+Repository https://github.com/tsediatgstu/complaint-management-system
 
 ---
 
@@ -118,7 +118,7 @@ Stack: React · Node.js · FastAPI · MongoDB · AWS S3
 Badges:  
 <img src="https://img.shields.io/badge/media-video-red.svg" alt="Video" /> <img src="https://img.shields.io/badge/storage-S3-blue.svg" alt="S3" />
 
-Repository (example): https://github.com/tsediatgstu/youtube-clone
+Repository https://github.com/tsediatgstu/youtube-clone
 
 ---
 
