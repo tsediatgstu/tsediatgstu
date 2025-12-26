@@ -1,4 +1,4 @@
-# TSEDEKE TGSTU — Full‑Stack Software Engineer
+# TSEDEKE TGSTU — Full‑Stack Web Developer
 
 <p align="center">
   <a href="https://github.com/tsediatgstu" target="_blank">
@@ -20,9 +20,9 @@
 ---
 
 ## 👋 About Me
-I am a disciplined Full‑Stack Web Developer and Computer Science graduate based in Ethiopia. I design and build production‑ready web applications with a focus on performance, security, and polished user interfaces.
+I am a pragmatic Full‑Stack Web Developer and Computer Science graduate based in Ethiopia. I design and deliver production‑ready web applications that emphasize performance, security, and a refined user experience.
 
-- Role: Full‑Stack Web Developer / Web Developer  
+- Role: Full‑Stack Web Developer  
 - Degree: B.Sc. in Computer Science  
 - Location: Ethiopia  
 - Email: tsediatgstu@gmail.com
@@ -48,7 +48,7 @@ I am a disciplined Full‑Stack Web Developer and Computer Science graduate base
 ---
 
 ## ✨ Professional Summary
-I build maintainable, secure, and high‑performance web applications. I focus on end‑to‑end delivery: clear API design, pragmatic data modeling, observability, and production readiness. My approach balances performance and UX while applying solid engineering practices.
+I build maintainable, secure, and high‑performance web applications. I focus on end‑to‑end delivery: clear API design, pragmatic data modeling, observability, and production readiness. My engineering approach balances performance with a polished user experience.
 
 ---
 
@@ -62,12 +62,12 @@ I build maintainable, secure, and high‑performance web applications. I focus o
 
 ---
 
-## 🔭 Selected Projects (Combined — polished + professional)
+## 🔭 Selected Projects (Professional & Decorative)
 
-### University Student Credential Card — Verification System
+### 1) University Student Credential Card — Verification System
 Stack: MERN · JWT · Docker · Nginx · MongoDB indexing  
 - Secure credential issuance and on‑demand verification for students.  
-- Role‑based access control, encrypted storage, and production deployment patterns.
+- Role‑based access control, encrypted sensitive fields, and production deployment patterns.
 
 - Architected a University Student Credential Card Management System using the MERN stack; implemented indexing and query optimizations that improved data retrieval latency by ~40% and enforced role‑based access with JWT.
 
@@ -78,11 +78,30 @@ Repository (example): https://github.com/tsediatgstu/credential-card-system
 
 ---
 
-### User Authentication Service (Reusable)
+### 2) University Student Complaint Management System
+Stack: React · Redux · PHP · MySQL · Node.js (API gateway) · Docker  
+- Purpose: Streamline and track student complaints from submission to resolution.  
+- Features:
+  - Multi‑role workflows (student, faculty, admin) with RBAC and audit trails.  
+  - Real‑time status updates using WebSockets / Redux state synchronization.  
+  - Complex form handling, attachment uploads, and secure file storage.  
+  - Reporting dashboard for administrators with filters and exportable reports (CSV/PDF).  
+- Reliability & Security:
+  - Transactional integrity with MySQL, input validation, and activity logging.  
+  - Rate limiting, CSRF protections, and secure session handling.  
+
+Badges:  
+<img src="https://img.shields.io/badge/feature-Ticketing-blueviolet.svg" alt="Ticketing" /> <img src="https://img.shields.io/badge/security-RBAC-red.svg" alt="RBAC" /> <img src="https://img.shields.io/badge/realtime-WebSockets-yellow.svg" alt="Realtime" />
+
+Repository (example): https://github.com/tsediatgstu/complaint-management-system
+
+---
+
+### 3) User Authentication Service (Reusable)
 Stack: Node.js · Express · JWT · OAuth2 · PostgreSQL / MongoDB  
-- Email/password + OAuth2, refresh tokens, password reset flows.  
-- Secure hashing, rate limiting, and IP protections.  
-- Designed as a microservice for reuse across apps.
+- Email/password + OAuth2 support, refresh tokens, password reset flows, and SSO-ready architecture.  
+- Hardened with bcrypt/argon2 hashing, account throttling, and token revocation flows.  
+- Designed as a microservice for reuse across multiple applications.
 
 Badges:  
 <img src="https://img.shields.io/badge/auth-JWT-red.svg" alt="Auth" /> <img src="https://img.shields.io/badge/oauth-OAuth2-green.svg" alt="OAuth2" />
@@ -91,11 +110,10 @@ Repository (example): https://github.com/tsediatgstu/auth-service
 
 ---
 
-### YouTube Clone — Media Platform (Demo)
+### 4) YouTube Clone — Media Platform (Demo)
 Stack: React · Node.js · FastAPI · MongoDB · AWS S3  
-- Video upload, processing, adaptive streaming, search, categories.  
-- Role management, comments, likes, and watch history.  
-- Media processing pipeline using FastAPI and object storage.
+- Video upload, processing, adaptive streaming, search, categories, comments, likes, and watch history.  
+- Media processing pipeline (transcoding, thumbnails) and S3 backed storage with signed URLs for secure delivery.
 
 Badges:  
 <img src="https://img.shields.io/badge/media-video-red.svg" alt="Video" /> <img src="https://img.shields.io/badge/storage-S3-blue.svg" alt="S3" />
@@ -108,8 +126,8 @@ Repository (example): https://github.com/tsediatgstu/youtube-clone
 - Test-driven development (unit & integration tests)  
 - CI/CD automation (GitHub Actions)  
 - Containerization and deployment (Docker, Nginx)  
-- Observability: logging, metrics, health checks  
-- Security-first: input validation, secure headers, encrypted secrets
+- Observability: structured logging, metrics, and health checks  
+- Security-first: input validation, secure headers, encrypted secrets and backups
 
 ---
 
@@ -122,12 +140,12 @@ Repository (example): https://github.com/tsediatgstu/youtube-clone
 ---
 
 ## 🤝 Collaborations & Availability
-I collaborate on product‑oriented web platforms, identity systems, and media/streaming demos. Open to full‑time roles, contracts, and mentorship.
+I collaborate on product‑oriented web platforms, identity systems, and media/streaming projects. Open to full‑time roles, contract work, and mentorship.
 
-How we can work together:
-- Feature engineering — take a feature to production.  
-- Architecture & system design — I'll design scalable subsystems.  
-- Mentorship & code review for teams and juniors.
+Ways to collaborate:
+- Deliver feature‑complete production features  
+- Architect and design scalable subsystems  
+- Mentor teams and lead code reviews
 
 ---
 
@@ -140,10 +158,10 @@ How we can work together:
 
 ---
 
-## 📎 Extras
-- Want animated "moving" header tuned differently? I can change colors and phrases.  
-- Want project cards with screenshots & live demos? Provide screenshots and repo URLs; I'll insert them.  
-- Want a downloadable resume button? Provide a link and I’ll add it.
+## 📎 Extras & Next Steps
+- Want animated header colors/phrases tuned differently? I can update the typing SVG.  
+- Want project cards with screenshots, demo links, and direct repo links? Provide images and repo URLs; I'll add polished cards.  
+- Want a downloadable CV/resume button? Provide the resume link and I’ll insert it.
 
 <p align="center">
   <sub>Made with ❤️ • TSEDEKE TGSTU — Full‑Stack Web Developer</sub>
