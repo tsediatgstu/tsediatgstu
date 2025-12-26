@@ -1,7 +1,4 @@
-<!--
-  README for TSEDEKE TGSTU
-  Polished, colorful, and professional with animated typing header
--->
+# TSEDEKE TGSTU — Full‑Stack Software Engineer
 
 <p align="center">
   <a href="https://github.com/tsediatgstu" target="_blank">
@@ -17,18 +14,17 @@
 </p>
 
 <p align="center">
-  <!-- Animated typing header (moving style) -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00e5ff&background=0d111700&width=760&lines=Hi!+My+Name+is+TSEDEKE+TGSTU;I+am+a+Full-Stack+Web+Developer;I+build+scalable+and+beautiful+web+experiences" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 About Me
-I am a disciplined Full‑Stack Web Developer and Computer Science graduate based in Ethiopia. I design and build production‑ready web applications with a focus on performance, security, and excellent user experience.
+I am a disciplined Full‑Stack Web Developer and Computer Science graduate based in Ethiopia. I design and build production‑ready web applications with a focus on performance, security, and polished user interfaces.
 
-- Role: Full‑Stack Web Developer
-- Degree: B.Sc. in Computer Science
-- Location: Ethiopia
+- Role: Full‑Stack Web Developer / Web Developer  
+- Degree: B.Sc. in Computer Science  
+- Location: Ethiopia  
 - Email: tsediatgstu@gmail.com
 
 ---
@@ -51,66 +47,87 @@ I am a disciplined Full‑Stack Web Developer and Computer Science graduate base
 
 ---
 
-## 🔭 Selected Projects
-
-### 1) University Student Credential Card — Verification System
-- Stack: MERN (MongoDB · Express · React · Node) · JWT · Docker · Nginx  
-- Highlights:
-  - Secure credential issuance and on‑demand verification for students.
-  - Implemented MongoDB indexing and query tuning to reduce fetch latency by ~40%.
-  - Endpoints secured with role‑based JWT authorization; sensitive fields encrypted at rest.  
-- Status: production prototype / repo: `tsediatgstu/credential-card-system` (replace with actual repo link)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/feature-Verification-brightgreen.svg" alt="Verification" />
-  <img src="https://img.shields.io/badge/security-JWT-blue.svg" alt="JWT" />
-  <img src="https://img.shields.io/badge/performance-Indexed%20DB-orange.svg" alt="Performance" />
-</div>
+## ✨ Professional Summary
+I build maintainable, secure, and high‑performance web applications. I focus on end‑to‑end delivery: clear API design, pragmatic data modeling, observability, and production readiness. My approach balances performance and UX while applying solid engineering practices.
 
 ---
 
-### 2) User Authentication System
-- Stack: Node.js · Express · Passport / JWT · PostgreSQL / MongoDB  
-- Highlights:
-  - Email/password + OAuth2 support, refresh tokens, password reset flows.
-  - Secure password hashing, rate limiting, and IP‑based protections.
-- Status: reusable auth microservice / repo: `tsediatgstu/auth-service` (replace with actual repo link)
-
-<div align="left">
-  <img src="https://img.shields.io/badge/auth-JWT-red.svg" alt="Auth" />
-  <img src="https://img.shields.io/badge/oauth-OAuth2-green.svg" alt="OAuth2" />
-</div>
+## 🧭 Core Competencies
+- Frontend: React, Next.js, HTML5, CSS3, Tailwind  
+- Backend: Node.js, Express, FastAPI, PHP  
+- Databases: MongoDB, PostgreSQL, MySQL  
+- Languages: JavaScript/TypeScript, Python, Java, C++  
+- DevOps & Tooling: Docker, Git, GitHub Actions, Nginx  
+- Practices: TDD, CI/CD, JWT auth, REST/GraphQL, indexing & query optimization, Redux
 
 ---
 
-### 3) YouTube Clone — Media Platform
-- Stack: React · Node.js · FastAPI (media processing) · MongoDB · AWS S3 for storage  
-- Highlights:
-  - Video upload, processing, adaptive streaming, search and categories.
-  - Role management (uploader/admin), comments, likes, and watch history.
-- Status: demo / repo: `tsediatgstu/youtube-clone` (replace with actual repo link)
+## 🔭 Selected Projects (Combined — polished + professional)
 
-<div align="left">
-  <img src="https://img.shields.io/badge/media-video-red.svg" alt="Video" />
-  <img src="https://img.shields.io/badge/storage-S3-blue.svg" alt="S3" />
-</div>
+### University Student Credential Card — Verification System
+Stack: MERN · JWT · Docker · Nginx · MongoDB indexing  
+- Secure credential issuance and on‑demand verification for students.  
+- Role‑based access control, encrypted storage, and production deployment patterns.
+
+- Architected a University Student Credential Card Management System using the MERN stack; implemented indexing and query optimizations that improved data retrieval latency by ~40% and enforced role‑based access with JWT.
+
+Badges:  
+<img src="https://img.shields.io/badge/feature-Verification-brightgreen.svg" alt="Verification" /> <img src="https://img.shields.io/badge/security-JWT-blue.svg" alt="JWT" /> <img src="https://img.shields.io/badge/performance-Indexed%20DB-orange.svg" alt="Performance" />
+
+Repository (example): https://github.com/tsediatgstu/credential-card-system
 
 ---
 
-## 🔧 Engineering Practices
-- Test-driven development (unit & integration tests)
-- CI/CD automation (GitHub Actions)
-- Containerization (Docker) and orchestrated deployment
-- Observability: logging, metrics, health checks
+### User Authentication Service (Reusable)
+Stack: Node.js · Express · JWT · OAuth2 · PostgreSQL / MongoDB  
+- Email/password + OAuth2, refresh tokens, password reset flows.  
+- Secure hashing, rate limiting, and IP protections.  
+- Designed as a microservice for reuse across apps.
+
+Badges:  
+<img src="https://img.shields.io/badge/auth-JWT-red.svg" alt="Auth" /> <img src="https://img.shields.io/badge/oauth-OAuth2-green.svg" alt="OAuth2" />
+
+Repository (example): https://github.com/tsediatgstu/auth-service
+
+---
+
+### YouTube Clone — Media Platform (Demo)
+Stack: React · Node.js · FastAPI · MongoDB · AWS S3  
+- Video upload, processing, adaptive streaming, search, categories.  
+- Role management, comments, likes, and watch history.  
+- Media processing pipeline using FastAPI and object storage.
+
+Badges:  
+<img src="https://img.shields.io/badge/media-video-red.svg" alt="Video" /> <img src="https://img.shields.io/badge/storage-S3-blue.svg" alt="S3" />
+
+Repository (example): https://github.com/tsediatgstu/youtube-clone
+
+---
+
+## 🛠 Engineering Practices
+- Test-driven development (unit & integration tests)  
+- CI/CD automation (GitHub Actions)  
+- Containerization and deployment (Docker, Nginx)  
+- Observability: logging, metrics, health checks  
 - Security-first: input validation, secure headers, encrypted secrets
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub — Live Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tsediatgstu&show_icons=true&theme=radical&border_radius=10" width="47%" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsediatgstu&layout=compact&theme=radical&border_radius=10" width="47%" alt="Top languages" />
 </p>
+
+---
+
+## 🤝 Collaborations & Availability
+I collaborate on product‑oriented web platforms, identity systems, and media/streaming demos. Open to full‑time roles, contracts, and mentorship.
+
+How we can work together:
+- Feature engineering — take a feature to production.  
+- Architecture & system design — I'll design scalable subsystems.  
+- Mentorship & code review for teams and juniors.
 
 ---
 
@@ -123,17 +140,10 @@ I am a disciplined Full‑Stack Web Developer and Computer Science graduate base
 
 ---
 
-## 🎯 Availability
-Open to full‑time roles, contract projects, and technical mentorship focusing on web platforms, authentication & identity systems, and scalable backends.
-
----
-
-## ✨ Would you like:
-- Project cards with screenshots and live demos? (I can include screenshot images and live links.)  
-- Direct repo links inserted into each project card? (Paste the repo URLs and I’ll update.)  
-- A downloadable CV/resume button? (Provide a link and I’ll add a badge.)
-
----
+## 📎 Extras
+- Want animated "moving" header tuned differently? I can change colors and phrases.  
+- Want project cards with screenshots & live demos? Provide screenshots and repo URLs; I'll insert them.  
+- Want a downloadable resume button? Provide a link and I’ll add it.
 
 <p align="center">
   <sub>Made with ❤️ • TSEDEKE TGSTU — Full‑Stack Web Developer</sub>
