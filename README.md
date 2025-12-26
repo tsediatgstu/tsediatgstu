@@ -1,4 +1,4 @@
-# 👨‍💻 Tsediat | Full-Stack Software Engineer 
+# 👨‍💻 Tsedeke Tgstu | Full-Stack Software Engineer 
 
 <p align="left">
   <img src="https://img.shields.io/badge/Degree-Computer%20Science-blue?style=for-the-badge" />
