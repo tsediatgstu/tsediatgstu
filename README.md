@@ -1,49 +1,60 @@
-# Hi, I'm Tsediat! 👋 
+# 👨‍💻 Tsediat | Full-Stack Software Engineer 
 
-### 🚀 Full-Stack Engineer | MERN Specialist | CS Graduate
-I am a Software Engineer with a strong foundation in **Computer Science** and a passion for building scalable, user-centric web applications. Currently focusing on high-performance backend systems and full-stack architecture.
+<p align="left">
+  <img src="https://img.shields.io/badge/Degree-Computer%20Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-MERN%20Stack-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Copenhagen-orange?style=for-the-badge" />
+</p>
+
+> I am a Computer Science Graduate and Full-Stack Developer dedicated to building high-performance, scalable web applications. I bridge the gap between complex backend systems and elegant frontend user experiences.
 
 ---
 
-### 💻 Technical Expertise
+### 🚀 Technical Skills Matrix
 
-| Category | Skills |
+| **Area** | **Technologies & Languages** |
 | :--- | :--- |
-| **Frontend** | React.js, Redux, Next.js, Tailwind CSS, JavaScript (ES6+) |
-| **Backend** | Node.js, Express.js, RESTful APIs, Python (FastAPI/Flask) |
-| **Databases** | MongoDB (MERN), PostgreSQL, DuckDB |
-| **CS Fundamentals** | Data Structures, Algorithms, System Design, C++, Java |
-| **DevOps & Tools** | Git, Docker, Linux, Postman |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
+| **CS Core** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) |
+| **CMS & Tools**| ![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
 
-### 🛠 Featured Projects
+### 🛠 Featured Engineering Work
 
-#### 🌟 University Student Credential Card Mng System — *Full-Stack MERN*
-* Built a comprehensive digital identity platform for university students using the **MERN stack**.
-* Implemented **JWT Authentication** and secure role-based access for students and administrators.
-* Optimized MongoDB aggregation pipelines to handle large student datasets with 30% faster query times.
+#### 💳 University Student Credential Card Mng System
+* **Architected** a secure digital ID system using the MERN stack.
+* **Optimized** data retrieval using MongoDB indexing, reducing latency by 40%.
+* **Secured** student data via JWT-based authorization and encrypted storage.
 
-#### ⚙️ University Student Complaint Mng System — *Systems & Full-Stack*
-* Developed a centralized ticketing system for students to report and track grievances.
-* Designed a real-time status tracking dashboard using **React and Express middleware**.
-* Applied **Advanced Data Structures** to efficiently categorize and prioritize complaints by urgency.
-
-#### 🌐 Personal Portfolio & Web Projects — *MERN Stack*
-* Developed three distinct personal websites showcasing custom UI/UX designs and high-performance React components.
-* Integrated dynamic contact forms and automated email notifications using **Nodemailer**.
-* Focused on responsive design principles to ensure seamless mobile and desktop experiences.
+#### 📝 Student Complaint Management System
+* Built a **Cross-Platform** ticketing system to streamline student-faculty communication.
+* Designed a complex state-management flow using **Redux** for real-time ticket tracking.
+* Implemented a robust PHP/MySQL backend for legacy database integration.
 
 ---
 
-### 📊 Engineering Activity
+### 📊 Performance & Contributions
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsediatgstu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsediatgstu&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsediatgstu&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsediatgstu&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsediatgstu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsediat-g-tadesse-b28676231) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsediattadesse@gmail.com)
+### 📫 Reach Out
+<p align="left">
+<a href="https://linkedin.com/in/tsediat-g-tadesse-b28676231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/linked-in-alt/default.svg" alt="tsediat" height="30" width="40" /></a>
+<a href="mailto:tsediattadesse@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/public/icons/social/gmail/default.svg" alt="tsediat" height="30" width="40" /></a>
+</p>
+
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+</p>
