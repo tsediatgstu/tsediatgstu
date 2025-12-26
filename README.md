@@ -19,14 +19,20 @@ I am a Software Engineer with a strong foundation in **Computer Science** and a 
 
 ### 🛠 Featured Projects
 
-#### 🌟 [Project Name 1] — *Full-Stack MERN Application*
-* Built a [Brief description of the app, e.g., Task Management System] using the MERN stack.
-* Implemented [Specific feature, e.g., JWT Authentication, Real-time updates with Socket.io].
-* Optimized database queries in MongoDB to improve load times by 30%.
+#### 🌟 University Student Credential Card Mng System — *Full-Stack MERN*
+* Built a comprehensive digital identity platform for university students using the **MERN stack**.
+* Implemented **JWT Authentication** and secure role-based access for students and administrators.
+* Optimized MongoDB aggregation pipelines to handle large student datasets with 30% faster query times.
 
-#### ⚙️ [Project Name 2] — *Systems & Data Engineering*
-* Developed a [Brief description, e.g., memory management module] using **C++**.
-* Applied advanced **Data Structures** to solve [specific problem].
+#### ⚙️ University Student Complaint Mng System — *Systems & Full-Stack*
+* Developed a centralized ticketing system for students to report and track grievances.
+* Designed a real-time status tracking dashboard using **React and Express middleware**.
+* Applied **Advanced Data Structures** to efficiently categorize and prioritize complaints by urgency.
+
+#### 🌐 Personal Portfolio & Web Projects — *MERN Stack*
+* Developed three distinct personal websites showcasing custom UI/UX designs and high-performance React components.
+* Integrated dynamic contact forms and automated email notifications using **Nodemailer**.
+* Focused on responsive design principles to ensure seamless mobile and desktop experiences.
 
 ---
 
@@ -39,5 +45,5 @@ I am a Software Engineer with a strong foundation in **Computer Science** and a 
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tsediat-g-tadesse-b28676231) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tsediattadesse@gmail.com)
