@@ -1,4 +1,4 @@
-# TSEDEKE TGSTU — Full‑Stack Web Developer
+# TSEDEKE TGSTU — Full‑Stack Developer
 
 <p align="center">
   <a href="https://github.com/tsediatgstu" target="_blank">
